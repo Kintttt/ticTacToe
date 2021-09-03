@@ -1,0 +1,4 @@
+Project Name: Tic Tac Toe
+Author: Temitope Akintola
+Timeline: A duration of 2 weeks max
+Description: Tic tac Toe game netween user and computer
