@@ -1,4 +1,13 @@
 Project Name: Tic Tac Toe
 Author: Temitope Akintola
 Timeline: A duration of 2 weeks max
-Description: Tic tac Toe game netween user and computer
+Description: Tic tac Toe game between user and computer
+
+Users should be able to:
+Change display themes
+Compete against another player
+Input their names
+See live scores of competition
+Start a new game within the competion
+Reset the game
+
